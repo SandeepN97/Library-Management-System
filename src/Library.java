@@ -61,7 +61,6 @@ public class Library {
         System.out.println("All the book in the system are: " + "\r\n");
 
         for(int i = 0; i < count; i++){
-
             System.out.println(books[i]);
             System.out.println("\r\n");
         }
@@ -77,8 +76,6 @@ public class Library {
         System.out.println("5: Print all books.");
         System.out.println("******************************" + "\r\n");
     }
-
-
 
 }
 

@@ -44,7 +44,7 @@ public class Book {
 
     public void bookMenu() {
         //Book book = new Book();
-        System.out.println("1: Enter Serial Number");
+        System.out.println("1: Enter Serial Number of a Book.");
         this.sNo = sc.nextInt();
         //book.setsNo(sNo);
         System.out.println("2: Enter Book Name: ");
